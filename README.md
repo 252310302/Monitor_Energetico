@@ -1,3 +1,3 @@
 # Cosas que faltan 
-~~HACER LOS DESAFIOS~~
+* ~~HACER LOS DESAFIOS~~
 * PRESENTACION
